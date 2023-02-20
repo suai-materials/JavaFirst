@@ -1,0 +1,13 @@
+Цель работы: получение практических навыков при создании классов и запуске приложений в командной строке.
+
+
+
+1. Выполнить пример, разобранный на лекции(Классы Person и Employee).
+
+   - Person.java
+     #+INCLUDE: ./first/Person.java src java
+   - Program.java
+     #+INCLUDE: ./first/Program.java src java
+
+     Результат выполнения
+

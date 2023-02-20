@@ -1,0 +1,7 @@
+
+
+#+begin_src bat
+  cd first
+  javac Program.java
+  java Program
+#+end_src

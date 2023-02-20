@@ -1,0 +1,68 @@
+Цель работы: получение практических навыков при создании классов и запуске приложений в командной строке.
+
+
+
+1. Выполнить пример, разобранный на лекции(Классы Person и Employee).
+
+   - Person.java
+     #+INCLUDE: ./first/Person.java src java
+   - Employee.java
+	 #+INCLUDE: ./first/Employee.java src java
+   - Program.java
+     #+INCLUDE: ./first/Program.java src java
+
+   Результат выполнения программы:
+
+   #+DOWNLOADED: screenshot @ 2023-02-20 13:59:33
+   [[file:images/20230220-135933_screenshot.png]]
+
+2. Создать приложение, в котором для товара стоимостью a руб. b коп. при оплате за него c руб. d коп.
+   вычисляется, сколько сдачи требуется получить. 
+
+   - Main.java (Основной класс программы)
+
+	 #+INCLUDE: ./second/src/main/java/su/pank/Main.java src java
+
+   Результаты выполнения программы:
+
+   #+CAPTION: Обычная работа программы
+   [[file:images/20230220-140822_screenshot.png]]
+
+   #+CAPTION: При вводе суммы меньшей чем цена товара
+   [[file:images/20230220-140902_screenshot.png]]
+
+   #+CAPTION: При вводе суммы меньшей чем цена товара
+   [[file:images/20230220-141026_screenshot.png]]
+   
+   #+CAPTION: Конвертация копеек
+   [[file:images/20230220-141105_screenshot.png]]
+
+
+3. Создать собственный класс(классы) в соответствии с вариантом, полученным в лабораторной работе по С#(Создание классов).
+
+   - SquareMatrix.java (Основной класс матрицы)
+
+	 #+INCLUDE: ./ClassesJava/src/main/java/org/example/SquareMatrix.java src java
+	 
+   - SquareMatrixTests (Класс для тестирования)
+
+	 #+INCLUDE: ./ClassesJava/src/test/java/SquareMatrixTests.java src java
+
+   Результат выполнения программы:
+   #+CAPTION: Результат тестов
+   #+DOWNLOADED: screenshot @ 2023-02-20 14:18:14
+   [[file:images/20230220-141814_screenshot.png]]
+
+4. Выполнить компиляцию и запуск приложения Java с помощью командной строки.
+
+   - Test.java
+
+	 #+INCLUDE: ./third/Test.java src java
+
+   Компиляция и запуск:
+
+   #+CAPTION: Демонстрация компиляции и запуска приложения на Java
+   [[file:images/20230220-142206_screenshot.png]]
+
+
+	 

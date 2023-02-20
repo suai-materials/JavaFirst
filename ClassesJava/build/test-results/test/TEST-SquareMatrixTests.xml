@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="РўРµСЃС‚РёСЂРѕРІР°РЅРёРµ РјР°С‚СЂРёС†С‹" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-02-20T11:17:58" hostname="DESKTOP-93GQTJH" time="0.017">
+  <properties/>
+  <testcase name="РџСЂРѕРІРµСЂРєР°, РІРµСЂС…РЅРµС‚СЂРµСѓРіРѕР»СЊРЅРѕР№ РёР»Рё РЅРёР¶РЅРµС‚СЂРµСѓРіРѕР»СЊРЅРѕР№ Р»Рё Сѓ РЅР°СЃ РјР°С‚СЂРёС†Р°?" classname="SquareMatrixTests" time="0.01"/>
+  <testcase name="РџСЂРѕРІРµСЂРєР° РёРЅРёС†РёР°Р»РёР·Р°С†РёРё" classname="SquareMatrixTests" time="0.002"/>
+  <testcase name="РџСЂРѕРІРµСЂРєР° РІС‹РІРѕРґР° РІ СЃС‚СЂРѕРєСѓ" classname="SquareMatrixTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
